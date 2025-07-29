@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-I'm a **Machine Learning Engineer** and **AI Researcher** passionate about building practical AI solutions that solve real-world problems. With a PhD in Information Society Technologies and experience leading AI teams, I bridge the gap between cutting-edge research and production-ready applications.
+I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), passionate about building practical AI solutions that solve real-world problems. With a PhD in Information Society Technologies (near completion) and experience leading AI teams, I bridge the gap between cutting-edge research and production-ready applications.
 
 - 🔬 **Former Head of AI Department** at Alpha3D (Generative AI for 3D assets)
-- 🎓 **PhD Graduate** from Tallinn University (Enactive Facial Expression Framework)
+- 🎓 **Soon to be PhD Graduate** from Tallinn University (Enactive Facial Expression Framework)
 - 🛠️ **Current Role**: Development Engineer at Bertrandt GmbH (Automotive AI/Testing)
-- 🌍 **Based in**: Munich, Germany
+- 🌍 **Based in**: Bayern, Germany
 - 🎯 **Focus**: Document AI, Computer Vision, Human-Robot Interaction
 
 ## 🛠️ Tech Stack & Skills
@@ -109,7 +109,6 @@ I'm a **Machine Learning Engineer** and **AI Researcher** passionate about build
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsham&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahsham&theme=radical&hide_border=true)
 
 </div>
 
@@ -118,8 +117,8 @@ I'm a **Machine Learning Engineer** and **AI Researcher** passionate about build
 - **PhD in Information Society Technologies** - Tallinn University (2020-2025)
   - *Thesis: Enactive Facial Expression Framework for Human-Robot Interaction*
 - **MSc in Robotics and Computer Engineering** - University of Tartu (2018-2020)
-- **Published Researcher** - Springer Nature journals (SIVP, Visual Computing, Scientific Reports)
-- **Peer Reviewer** - Multiple international journals in AI/ML domain
+- **Published Researcher** - Springer Nature journals and more
+- **Peer Reviewer** - Multiple international journals in the AI/ML domain (SIVP, Visual Computing, Scientific Reports)
 
 ## 🏆 Notable Achievements
 
@@ -132,6 +131,7 @@ I'm a **Machine Learning Engineer** and **AI Researcher** passionate about build
 ## 🌟 What I'm Working On
 
 - 🔍 **Enhancing TenderLens** with advanced document understanding
+- 🔍 **MyVibe** for improvements
 - 🤖 **Privacy-first AI tools** that don't store user data
 - 🔬 **Research collaborations** in embodied AI and human-computer interaction
 - 🚗 **Automotive AI** applications for ECU testing and diagnostics
@@ -141,7 +141,6 @@ I'm a **Machine Learning Engineer** and **AI Researcher** passionate about build
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsham)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallahhusseinsham@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsham)
 
 </div>
