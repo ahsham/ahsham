@@ -99,6 +99,25 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🔍 AI Fact Checker
+**Quote & Claim Verification**
+- Dual AI analysis (OpenAI + Claude)
+- Verifies quotes and attributions
+- Detects misattributions and false claims
+- Text input or image upload support
+
+[🔗 Try Fact Checker](https://factcheck-x6qf.onrender.com/)
+
+</td>
+<td width="50%">
+
+<!-- Future project slot -->
+
+</td>
+</tr>
 </table>
 
 ## 📊 GitHub Stats
