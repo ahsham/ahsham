@@ -40,8 +40,6 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-</div>
-
 ## 🚀 Live AI Projects
 
 > 🌟 **All projects hosted on free tier - please allow a few seconds to load**
@@ -114,11 +112,20 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 </td>
 <td width="50%">
 
-<!-- Future project slot -->
+### 🎌 Jumping Ball Runner — Bot Rival Mode
+**Interactive Game Experiment**
+- Inspired by Chrome Dino, Super Mario & Gold Runner
+- Race against a **bot rival** that adapts to your play
+- Build **Flow**, grab ⚡ boosts, and unleash NOS
+- Lives, levels, and scores saved locally
+- A learning project in **HCI & UI/UX design**
+
+[🔗 Play the Game](https://ahsham.github.io/balljumper/)
 
 </td>
 </tr>
 </table>
+
 
 ## 📊 GitHub Stats
 
