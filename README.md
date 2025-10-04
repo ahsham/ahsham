@@ -40,6 +40,8 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
+</div>
+
 ## 🚀 Live AI Projects
 
 > 🌟 **All projects hosted on free tier - please allow a few seconds to load**
@@ -126,7 +128,6 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 </tr>
 </table>
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -134,7 +135,6 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsham&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsham&layout=compact&theme=radical&hide_border=true)
-
 
 </div>
 
@@ -144,7 +144,51 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
   - *Thesis: Enactive Facial Expression Framework for Human-Robot Interaction*
 - **MSc in Robotics and Computer Engineering** - University of Tartu (2018-2020)
 - **Published Researcher** - Springer Nature journals and more
-- **Peer Reviewer** - Multiple international journals in the AI/ML domain (SIVP, Visual Computing, Scientific Reports)
+- **Active Peer Reviewer** - 60+ manuscripts reviewed across leading AI/ML journals
+
+## 📝 Peer Review Contributions
+
+As an active member of the academic community, I've reviewed **60+ manuscripts** across multiple prestigious journals in AI, Machine Learning, and Computer Vision:
+
+<details>
+<summary><b>📋 2025 Reviews (19 manuscripts)</b></summary>
+
+- **Signal, Image and Video Processing** - 17 manuscripts
+- **Scientific Reports** - 5 manuscripts
+- **The Visual Computer** - 1 manuscript
+- **Discover Artificial Intelligence** - 1 manuscript
+- **Journal of Ambient Intelligence and Humanized Computing** - 1 manuscript
+- **Archives of Computational Methods in Engineering** - 1 manuscript
+- **International Journal of Computational Intelligence Systems** - 1 manuscript
+- **Cognitive Computation** - 1 manuscript
+
+</details>
+
+<details>
+<summary><b>📋 2024 Reviews (25 manuscripts)</b></summary>
+
+- **Signal, Image and Video Processing** - 15 manuscripts
+- **Scientific Reports** - 4 manuscripts
+- **Discover Computing** - 2 manuscripts
+- **The Visual Computer** - 2 manuscripts
+- **Artificial Intelligence Review** - 1 manuscript
+- **International Journal of Computational Intelligence Systems** - 1 manuscript
+- **Discover Artificial Intelligence** - 1 manuscript
+
+</details>
+
+<details>
+<summary><b>📋 2023 Reviews (9 manuscripts)</b></summary>
+
+- **Scientific Reports** - 5 manuscripts
+- **Social Network Analysis and Mining** - 1 manuscript
+- **Signal, Image and Video Processing** - 1 manuscript
+- **Psychological Research** - 1 manuscript
+- **International Journal of Multimedia Information Retrieval** - 1 manuscript
+
+</details>
+
+**Total Impact**: Contributed to the quality assurance of **60+ research papers** across 13 international journals, helping advance the fields of AI, computer vision, multimedia processing, and human-computer interaction.
 
 ## 🏆 Notable Achievements
 
@@ -153,6 +197,7 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 - 📚 **Academic Publications** - Multiple papers in emotion recognition & AI
 - 👨‍🏫 **Mentorship** - Supervised undergraduate/graduate students
 - 🎥 **Research Documentation** - [Dyadic Interaction Experiments](https://youtube.com/playlist?list=PL1e17YXORt5HIF66sabV3uK3hboHQ2QYO)
+- 🔍 **Trusted Peer Reviewer** - 60+ manuscripts reviewed across 13 journals
 
 ## 🌟 What I'm Working On
 
@@ -168,6 +213,8 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsham)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsham)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=m9tgIYwAAAAJ&hl=en)
+[![ETIS CV](https://img.shields.io/badge/ETIS_CV-00A86B?style=for-the-badge&logo=academia&logoColor=white)](https://www.etis.ee/CV/Abdallah_Hussein_Sham/eng/)
 
 </div>
 
