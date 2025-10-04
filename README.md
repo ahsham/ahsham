@@ -148,7 +148,7 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 
 ## 📝 Peer Review Contributions
 
-As an active member of the academic community, I've reviewed **60+ manuscripts** across multiple prestigious journals in AI, Machine Learning, and Computer Vision:
+As an active member of the academic community, I've reviewed **100+ manuscripts** across multiple prestigious journals in AI, Machine Learning, and Computer Vision. Below are verified reviews from Springer Nature's platform (additional reviews from other publishers available on request):
 
 <details>
 <summary><b>📋 2025 Reviews (19 manuscripts)</b></summary>
@@ -199,14 +199,6 @@ As an active member of the academic community, I've reviewed **60+ manuscripts**
 - 🎥 **Research Documentation** - [Dyadic Interaction Experiments](https://youtube.com/playlist?list=PL1e17YXORt5HIF66sabV3uK3hboHQ2QYO)
 - 🔍 **Trusted Peer Reviewer** - 60+ manuscripts reviewed across 13 journals
 
-## 🌟 What I'm Working On
-
-- 🔍 **Enhancing TenderLens** with advanced document understanding
-- 🔍 **MyVibe** for improvements
-- 🤖 **Privacy-first AI tools** that don't store user data
-- 🔬 **Research collaborations** in embodied AI and human-computer interaction
-- 🚗 **Automotive AI** applications for ECU testing and diagnostics
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -214,6 +206,7 @@ As an active member of the academic community, I've reviewed **60+ manuscripts**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsham)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsham)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=m9tgIYwAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1773-904X)
 [![ETIS CV](https://img.shields.io/badge/ETIS_CV-00A86B?style=for-the-badge&logo=academia&logoColor=white)](https://www.etis.ee/CV/Abdallah_Hussein_Sham/eng/)
 
 </div>
