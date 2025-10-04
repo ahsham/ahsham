@@ -144,11 +144,11 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
   - *Thesis: Enactive Facial Expression Framework for Human-Robot Interaction*
 - **MSc in Robotics and Computer Engineering** - University of Tartu (2018-2020)
 - **Published Researcher** - Springer Nature journals and more
-- **Active Peer Reviewer** - 60+ manuscripts reviewed across leading AI/ML journals
+- **Active Peer Reviewer** - 100+ manuscripts reviewed across leading AI/ML journals
 
 ## 📝 Peer Review Contributions
 
-As an active member of the academic community, I've reviewed **100+ manuscripts** across multiple prestigious journals in AI, Machine Learning, and Computer Vision. Below are verified reviews from Springer Nature's platform (additional reviews from other publishers available on request):
+As an active member of the academic community, I've reviewed **100+ manuscripts** across multiple prestigious journals in AI, Machine Learning, and Computer Vision. Below are verified reviews from Springer Nature's platform (recorded data from 2023 onwards Springer's only):
 
 <details>
 <summary><b>📋 2025 Reviews (19 manuscripts)</b></summary>
@@ -188,7 +188,7 @@ As an active member of the academic community, I've reviewed **100+ manuscripts*
 
 </details>
 
-**Total Impact**: Contributed to the quality assurance of **60+ research papers** across 13 international journals, helping advance the fields of AI, computer vision, multimedia processing, and human-computer interaction.
+**Total Impact**: Contributed to the quality assurance of **100+ research papers** across 13 international journals, helping advance the fields of AI, computer vision, robotics, psychology, multimedia processing, and human-computer interaction.
 
 ## 🏆 Notable Achievements
 
@@ -197,7 +197,7 @@ As an active member of the academic community, I've reviewed **100+ manuscripts*
 - 📚 **Academic Publications** - Multiple papers in emotion recognition & AI
 - 👨‍🏫 **Mentorship** - Supervised undergraduate/graduate students
 - 🎥 **Research Documentation** - [Dyadic Interaction Experiments](https://youtube.com/playlist?list=PL1e17YXORt5HIF66sabV3uK3hboHQ2QYO)
-- 🔍 **Trusted Peer Reviewer** - 60+ manuscripts reviewed across 13 journals
+- 🔍 **Trusted Peer Reviewer** - 100+ manuscripts reviewed across 13 journals, along with Frontiers, Qeios, and more
 
 ## 🤝 Let's Connect!
 
