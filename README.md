@@ -155,7 +155,7 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 - Custom commands and integrations
 - Listed on Top.gg
 
-[🔗 View on Top.gg](https://top.gg/bot/1429247511767547966) | [➕ Invite to Server]([YOUR_INVITE_LINK_HERE](https://discord.com/oauth2/authorize?client_id=1429247511767547966&permissions=277025737728&integration_type=0&scope=bot+applications.commands)]
+[🔗 View on Top.gg](https://top.gg/bot/1429247511767547966) | [➕ Invite to Server]([BotDecision](https://discord.com/oauth2/authorize?client_id=1429247511767547966&permissions=277025737728&integration_type=0&scope=bot+applications.commands)]
 
 </td>
 <td width="50%">
