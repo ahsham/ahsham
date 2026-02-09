@@ -13,8 +13,8 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 - 🔬 **Former Head of AI Department** at Alpha3D (Generative AI for 3D assets)
 - 🎓 **Soon to be PhD Graduate** from Tallinn University (Enactive Facial Expression Framework)
 - 🛠️ **Current Role**: Development Engineer at Bertrandt GmbH (Automotive AI/Testing)
-- 🌍 **Based in**: Bayern, Germany
-- 🎯 **Focus**: Document AI, Computer Vision, Human-Robot Interaction
+- 🌍 **Based in**: Tallinn, Estonia
+- 🎯 **Focus**: Emotion AI, Computer Vision, Human-Computer Interaction
 
 ## 🛠️ Tech Stack & Skills
 
@@ -196,7 +196,7 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 - 📚 **Academic Publications** - Multiple papers in emotion recognition & AI
 - 👨‍🏫 **Mentorship** - Supervised undergraduate/graduate students
 - 🎥 **Research Documentation** - [Dyadic Interaction Experiments](https://youtube.com/playlist?list=PL1e17YXORt5HIF66sabV3uK3hboHQ2QYO)
-- 🔍 **Trusted Peer Reviewer** - 100+ manuscripts reviewed across 13 journals, along with Frontiers, Qeios, and more
+- 🔍 **Trusted Peer Reviewer** - 100+ manuscripts reviewed across 13 journals, along with Frontiers, MDPI, Springer's Nature, Qeios, and more
 
 ## 🤝 Let's Connect!
 
