@@ -181,53 +181,11 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 
 ## 🎓 Academic & Research Background
 
-- **PhD in Information Society Technologies** - Tallinn University (2020-2025)
+- **PhD in Information Society Technologies** - Tallinn University (2020-2026)
   - *Thesis: Enactive Facial Expression Framework for Human-Robot Interaction*
 - **MSc in Robotics and Computer Engineering** - University of Tartu (2018-2020)
 - **Published Researcher** - Springer Nature journals and more
 - **Active Peer Reviewer** - 100+ manuscripts reviewed across leading AI/ML journals
-
-## 📝 Peer Review Contributions
-
-As an active member of the academic community, I've reviewed **100+ manuscripts** across multiple prestigious journals in AI, Machine Learning, and Computer Vision. Below are verified reviews from Springer Nature's platform (recorded data from 2023 onwards Springer's only):
-
-<details>
-<summary><b>📋 2025 Reviews (19 manuscripts)</b></summary>
-
-- **Signal, Image and Video Processing** - 17 manuscripts
-- **Scientific Reports** - 5 manuscripts
-- **The Visual Computer** - 1 manuscript
-- **Discover Artificial Intelligence** - 1 manuscript
-- **Journal of Ambient Intelligence and Humanized Computing** - 1 manuscript
-- **Archives of Computational Methods in Engineering** - 1 manuscript
-- **International Journal of Computational Intelligence Systems** - 1 manuscript
-- **Cognitive Computation** - 1 manuscript
-
-</details>
-
-<details>
-<summary><b>📋 2024 Reviews (25 manuscripts)</b></summary>
-
-- **Signal, Image and Video Processing** - 15 manuscripts
-- **Scientific Reports** - 4 manuscripts
-- **Discover Computing** - 2 manuscripts
-- **The Visual Computer** - 2 manuscripts
-- **Artificial Intelligence Review** - 1 manuscript
-- **International Journal of Computational Intelligence Systems** - 1 manuscript
-- **Discover Artificial Intelligence** - 1 manuscript
-
-</details>
-
-<details>
-<summary><b>📋 2023 Reviews (9 manuscripts)</b></summary>
-
-- **Scientific Reports** - 5 manuscripts
-- **Social Network Analysis and Mining** - 1 manuscript
-- **Signal, Image and Video Processing** - 1 manuscript
-- **Psychological Research** - 1 manuscript
-- **International Journal of Multimedia Information Retrieval** - 1 manuscript
-
-</details>
 
 **Total Impact**: Contributed to the quality assurance of **100+ research papers** across 13 international journals, helping advance the fields of AI, computer vision, robotics, psychology, multimedia processing, and human-computer interaction.
 
