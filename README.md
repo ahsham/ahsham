@@ -210,17 +210,6 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 
 </div>
 
-## ☕ Support My Work
-
-If you find my projects helpful or interesting, consider buying me a coffee! Your support helps me continue building open-source AI tools and conducting research.
-
-<div align="center">
-
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zlastwolf)
-
-</div>
----
-
 <div align="center">
   
 *"Building AI tools that bridge research and real-world impact"*
