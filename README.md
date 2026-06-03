@@ -182,12 +182,11 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 ## 🎓 Academic & Research Background
 
 - **PhD in Information Society Technologies** - Tallinn University (2020-2026)
-  - *Thesis: Enactive Facial Expression Framework for Human-Robot Interaction*
+  - *Thesis: [Enactive Facial Expression Pipeline for Dyadic Interaction between Humans and Human-Like Agents](etera.ee/zoom/212098/view?page=1&p=separate)*
 - **MSc in Robotics and Computer Engineering** - University of Tartu (2018-2020)
 - **Published Researcher** - Springer Nature journals and more
-- **Active Peer Reviewer** - 100+ manuscripts reviewed across leading AI/ML journals
+- **Active Peer Reviewer** - 100+ manuscripts reviewed across different journals
 
-**Total Impact**: Contributed to the quality assurance of **100+ research papers** across 13 international journals, helping advance the fields of AI, computer vision, robotics, psychology, multimedia processing, and human-computer interaction.
 
 ## 🏆 Notable Achievements
 
@@ -196,8 +195,7 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 - 📚 **Academic Publications** - Multiple papers in emotion recognition & AI
 - 👨‍🏫 **Mentorship** - Supervised undergraduate/graduate students
 - 🎥 **Research Documentation** - [Dyadic Interaction Experiments](https://youtube.com/playlist?list=PL1e17YXORt5HIF66sabV3uK3hboHQ2QYO)
-- 🔍 **Trusted Peer Reviewer** - 100+ manuscripts reviewed across 13 journals, along with Frontiers, MDPI, Springer's Nature, Qeios, and more
-
+- 🥇 **Special Appearance** - [Defence and research work](https://teadus.postimees.ee/8471973/tlu-teadlase-loodud-uus-tehnoloogia-laseb-ai-agendil-lugeda-inimese-naoilmeid-ja-neile-reageerida)
 ## 🤝 Let's Connect!
 
 <div align="center">
