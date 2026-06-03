@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), passionate about building practical AI solutions that solve real-world problems. With a PhD in Information Society Technologies (near completion) and experience leading AI teams, I bridge the gap between cutting-edge research and production-ready applications.
+I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), passionate about building practical AI solutions that solve real-world problems. With a PhD in Information Society Technologies and experience leading AI teams, I bridge the gap between cutting-edge research and production-ready applications.
 
 - 🔬 **Former Head of AI Department** at Alpha3D (Generative AI for 3D assets)
-- 🎓 **Soon to be PhD Graduate** from Tallinn University (Enactive Facial Expression Framework)
-- 🛠️ **Current Role**: Development Engineer at Bertrandt GmbH (Automotive AI/Testing)
+- 🎓 **PhD Graduate** from Tallinn University (Enactive Facial Expression Pipeline)
+- 🛠️ **Current Role**: AI engineer
 - 🌍 **Based in**: Tallinn, Estonia
 - 🎯 **Focus**: Emotion AI, Computer Vision, Human-Computer Interaction
 
