@@ -12,7 +12,7 @@ I'm a **Machine Learning Scientist** / **AI Researcher** (call it as you want), 
 
 - 🔬 **Former Head of AI Department** at Alpha3D (Generative AI for 3D assets)
 - 🎓 **PhD Graduate** from Tallinn University (Enactive Facial Expression Pipeline)
-- 🛠️ **Current Role**: AI engineer
+- 🛠️ **Current Role**: AI engineer/ Senior AI developer @TLU
 - 🌍 **Based in**: Tallinn, Estonia
 - 🎯 **Focus**: Emotion AI, Computer Vision, Human-Computer Interaction
 
